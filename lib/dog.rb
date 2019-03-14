@@ -16,8 +16,5 @@ class Dog
     end 
   end 
   
-  def self.new 
-    
-  end 
   
 end 
