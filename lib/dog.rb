@@ -6,7 +6,7 @@ class Dog
   end 
   
   def self.all
-    
+    @@ALL.map 
   end 
   
 end 
