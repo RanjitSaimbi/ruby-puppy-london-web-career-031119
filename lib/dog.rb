@@ -6,7 +6,7 @@ class Dog
   end 
   
   def self.all
-    @@all.map |dog| do
+    @@all.map do |dog|
       puts "#{dog}"
     end 
   end 
