@@ -17,8 +17,6 @@ class Dog
     @@all.each do |dog|
       puts "#{dog}"
     end
-    binding.pry
-    "fhgf"
   end 
   
   
