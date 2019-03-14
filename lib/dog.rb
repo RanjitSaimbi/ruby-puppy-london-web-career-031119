@@ -7,7 +7,7 @@ class Dog
   
   def self.all
     @@all.map |dog| do
-      puts 
+      puts "#{dog}"
     end 
   end 
   
