@@ -6,7 +6,8 @@ class Dog
   end 
   
   def self.all
-    @@all.map |dog| do 
+    @@all.map |dog| do
+      puts 
     end 
   end 
   
